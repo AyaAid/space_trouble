@@ -168,3 +168,9 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 98718.106268 seconds.
+  path: Assets/3Dmodels/room link.fbx
+  artifactKey: Guid(5717cb7f8c2d4450a96a0bca9410d730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3Dmodels/room link.fbx using Guid(5717cb7f8c2d4450a96a0bca9410d730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31ebb901ae025da31b34f71c6e2a8d59') in 3.693273 seconds 

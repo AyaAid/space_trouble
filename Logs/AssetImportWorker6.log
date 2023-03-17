@@ -168,3 +168,15 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 98675.092225 seconds.
+  path: Assets/3Dmodels/residential.fbx
+  artifactKey: Guid(d560a21faa69f46dbb02900fd4d00658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3Dmodels/residential.fbx using Guid(d560a21faa69f46dbb02900fd4d00658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22c4dd0d55ac96bbf9ddb6cb81c2634f') in 3.473593 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 39.172390 seconds.
+  path: Assets/3Dmodels/residential.fbx
+  artifactKey: Guid(d560a21faa69f46dbb02900fd4d00658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3Dmodels/residential.fbx using Guid(d560a21faa69f46dbb02900fd4d00658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f76d97a8a596db02dd7b4989c0e7fd8a') in 1.335280 seconds 
