@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.1905002, g: 0.14306366, b: 0.15250078, a: 1}
+  m_IndirectSpecularColor: {r: 0.19040665, g: 0.14298895, b: 0.15245566, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -5431,6 +5431,10 @@ PrefabInstance:
     - target: {fileID: 4363083196285047559, guid: cc8aca425f3fc40298ad097185c3c6c6, type: 3}
       propertyPath: m_Name
       value: WinSphere (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4363083196285047562, guid: cc8aca425f3fc40298ad097185c3c6c6, type: 3}
+      propertyPath: InteractionText
+      value: To Activate the Generator
       objectReference: {fileID: 0}
     - target: {fileID: 4363083196285047562, guid: cc8aca425f3fc40298ad097185c3c6c6, type: 3}
       propertyPath: m_OnInteract.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -19131,6 +19135,10 @@ PrefabInstance:
       value: WinSphere (3)
       objectReference: {fileID: 0}
     - target: {fileID: 4363083196285047562, guid: cc8aca425f3fc40298ad097185c3c6c6, type: 3}
+      propertyPath: InteractionText
+      value: To Irrigate The Plants
+      objectReference: {fileID: 0}
+    - target: {fileID: 4363083196285047562, guid: cc8aca425f3fc40298ad097185c3c6c6, type: 3}
       propertyPath: m_OnInteract.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 863410697}
@@ -19290,6 +19298,10 @@ PrefabInstance:
     - target: {fileID: 4363083196285047559, guid: cc8aca425f3fc40298ad097185c3c6c6, type: 3}
       propertyPath: m_Name
       value: WinSphere (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4363083196285047562, guid: cc8aca425f3fc40298ad097185c3c6c6, type: 3}
+      propertyPath: InteractionText
+      value: To Refuel
       objectReference: {fileID: 0}
     - target: {fileID: 4363083196285047562, guid: cc8aca425f3fc40298ad097185c3c6c6, type: 3}
       propertyPath: m_OnInteract.m_PersistentCalls.m_Calls.Array.data[0].m_Target
