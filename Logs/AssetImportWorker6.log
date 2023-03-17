@@ -180,3 +180,15 @@ Received Import Request.
   path: Assets/3Dmodels/residential.fbx
   artifactKey: Guid(d560a21faa69f46dbb02900fd4d00658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/3Dmodels/residential.fbx using Guid(d560a21faa69f46dbb02900fd4d00658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f76d97a8a596db02dd7b4989c0e7fd8a') in 1.335280 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 76.153358 seconds.
+  path: Assets/3Dmodels/ChairFBX.fbx
+  artifactKey: Guid(ae8696aa5aedb4bc39bd7f0169de2590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3Dmodels/ChairFBX.fbx using Guid(ae8696aa5aedb4bc39bd7f0169de2590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64e18e38e1117193cbbd029bbda65dba') in 0.413886 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/3Dmodels/HOSPITAL_BED.fbx
+  artifactKey: Guid(e17c8913c8e314a5d84ff67f22aafff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3Dmodels/HOSPITAL_BED.fbx using Guid(e17c8913c8e314a5d84ff67f22aafff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e0a6fe844c571508c131238aee49374') in 0.570276 seconds 
